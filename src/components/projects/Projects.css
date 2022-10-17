@@ -1,14 +1,14 @@
-#portfolio h3{
+#projects h3{
     align-items: center;
 }
 
-.portfolio_container{
+.projects_container{
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     gap: 2.5rem;
 }
 
-.portfolio-item{
+.projects-item{
     background: var(--color-bg-variant);
     padding: 1.2rem;
     border-radius: 2rem;
@@ -16,17 +16,17 @@
     transition: var(--transition);
 
 }
-.portfolio-item:hover{
+.projects-item:hover{
     border-color: var(--color-bg-variant);
     background: transparent;
 }
 
-.portfolio-item-image{
+.projects-item-image{
     border-radius: 1.5rem;
     overflow: hidden;
 }
 
-.portfolio-item h3,h4{
+.projects-item h3{
     margin: 1.2rem 0 2rem;
 
 }
@@ -35,7 +35,7 @@
 
 @media screen and (max-width:1024px) {
 
-    .portfolio_container{
+    .projects_container{
        grid-template-columns: 1fr 1fr;
         gap: 1.2rem;
     }
@@ -44,7 +44,7 @@
 /*-------------------------- Media for Mobiles---------------------------*/
 
 @media screen and (max-width:600px) {
-    .portfolio_container{
+    .projects_container{
         grid-template-columns: 1fr;
         gap: 1rem;
     }    

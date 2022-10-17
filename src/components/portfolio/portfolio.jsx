@@ -11,6 +11,7 @@ const data = [
     id:1,
     img:IMG2,
     title:'UMA group',
+    technology:'HTML,CSS,JS',
     live:'https://mindbrewstudio.com/development/uma/UMAGroup/index.html'
   }
 ,
@@ -18,6 +19,7 @@ const data = [
     id:2,
     img:IMG1,
     title:'Contempory Real stete',
+    technology:'WordPress',
     live:'https://contemporaryrealestate.ae/'
   }
   ,
@@ -25,13 +27,15 @@ const data = [
     id:3,
     img:IMG3,
     title:'Raga Kitchen solutions',
+    technology:'HTML,CSS,JS,PHP,MySql',
     live:'https://mindbrewstudio.com/development/raga-kitchen/index.php'
   }
 ,
   {
     id:4,
     img:IMG4,
-    title:'Sibarita',
+    title:'Madame Sibarita',
+    technology:'HTML,CSS,JS,PHP,MySql,WordPress',
     live:'http://madamesibarita.com/'
   }
 ]
@@ -39,11 +43,12 @@ const data = [
 const portfolio = () => {
   return (
     <section id='portfolio'>
-      <h5>My Works in Teams and Solo</h5>
+      <h5>My Works in Teams </h5>
       <h2>Portfolio</h2>
+      
       <div className='container portfolio_container'>
         {
-                    data.map(({id, img, title, live}) => {
+                    data.map(({id, img, title,technology, live}) => {
                       return(
             
                         <article key={id} className='portfolio-item'>
@@ -51,6 +56,7 @@ const portfolio = () => {
                                 <img src={img} alt="" />
                               </div>
                                <h3>{title}</h3>
+                               <h4>Technology: {technology}</h4>
                               <a href={live} className='btn btn-primary'>See Live</a>
                         </article>
             
