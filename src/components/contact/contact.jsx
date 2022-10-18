@@ -27,7 +27,7 @@ const contact = () => {
           <article className='contact_option'>
             <BsMessenger className='contact_option-icon'/>
             <h4>Messenger</h4>
-            <h5>Dipak Kumar PAul</h5>
+            <h5>Dipak Kumar Paul</h5>
             <a href="https://m.me/idipakaec">Message Me</a>
           </article>
 
