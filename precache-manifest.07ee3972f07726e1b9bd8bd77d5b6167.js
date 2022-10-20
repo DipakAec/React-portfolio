@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "37d5135c030d8754f3e9",
-    "url": "/React-portfolio/static/css/main.bf673353.chunk.css"
+    "revision": "ed14b28ce7b4cdc4968e",
+    "url": "/React-portfolio/static/css/main.bf2d1735.chunk.css"
   },
   {
-    "revision": "37d5135c030d8754f3e9",
-    "url": "/React-portfolio/static/js/main.37d5135c.chunk.js"
+    "revision": "ed14b28ce7b4cdc4968e",
+    "url": "/React-portfolio/static/js/main.ed14b28c.chunk.js"
   },
   {
     "revision": "45b9bf53bf0b4c33a19d",
@@ -20,8 +20,8 @@ self.__precacheManifest = [
     "url": "/React-portfolio/static/js/runtime~main.dbe7677d.js"
   },
   {
-    "revision": "ced9e0dfe9615908ad0a064a63185744",
-    "url": "/React-portfolio/static/media/cv.ced9e0df.pdf"
+    "revision": "2b6692cb6fe11485c06fa4888f9af5bd",
+    "url": "/React-portfolio/static/media/cv.2b6692cb.pdf"
   },
   {
     "revision": "b5a3d0306401c1cdad0cc74b0d03a314",
@@ -60,7 +60,7 @@ self.__precacheManifest = [
     "url": "/React-portfolio/static/media/weather.2ebcc2db.png"
   },
   {
-    "revision": "a9444f99095325bcee3e96000db97147",
+    "revision": "105ee98b6958a1cdb342ac7623e7de28",
     "url": "/React-portfolio/index.html"
   }
 ];
