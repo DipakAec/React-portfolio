@@ -28,7 +28,7 @@ const data = [
     img:IMG3,
     title:'Raga Kitchen solutions',
     technology:'HTML,CSS,JS,PHP,MySql',
-    live:'https://mindbrewstudio.com/development/raga-kitchen/index.php'
+    live:'https://ragakitchen.com/'
   }
 ,
   {
