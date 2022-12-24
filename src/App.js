@@ -6,7 +6,7 @@ import Nav from './components/navbar/navbar'
 import About from './components/about/about'
 import Exprience from './components/exprience/exprience'
 import Portfolio from './components/portfolio/portfolio'
-import Projects from './components/projects/Projects';
+import Projects from './components/projects/Projects'
 import Contact from './components/contact/contact'
 import Footer from './components/footer/footer'
 

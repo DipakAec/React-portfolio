@@ -28,7 +28,7 @@ const data = [
     img:IMG3,
     title:'Raga Kitchen solutions',
     technology:'HTML,CSS,JS,PHP,MySql',
-    live:'https://mindbrewstudio.com/development/raga-kitchen/index.php'
+    live:'https://ragakitchen.com/'
   }
 ,
   {
@@ -57,7 +57,7 @@ const portfolio = () => {
                               </div>
                                <h3>{title}</h3>
                                <h4>Technology: {technology}</h4>
-                              <a href={live} className='btn btn-primary'>See Live</a>
+                              <a href={live} className='btn btn-primary' target="blank">See Live</a>
                         </article>
             
                       )
