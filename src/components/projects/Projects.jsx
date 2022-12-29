@@ -46,7 +46,7 @@ const Projects = () => {
                                 <img src={img} alt="" />
                               </div>
                                <h3>{title}</h3>
-                              <a href={live} className='btn btn-primary'>See Live</a>
+                              <a href={live} className='btn btn-primary' target="blank">See Live</a>
                         </article>
             
                       )
