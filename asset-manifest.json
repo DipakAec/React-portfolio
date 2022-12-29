@@ -1,7 +1,7 @@
 {
   "main.css": "/React-portfolio/static/css/main.bf2d1735.chunk.css",
-  "main.js": "/React-portfolio/static/js/main.96c7924d.chunk.js",
-  "main.js.map": "/React-portfolio/static/js/main.96c7924d.chunk.js.map",
+  "main.js": "/React-portfolio/static/js/main.904541cd.chunk.js",
+  "main.js.map": "/React-portfolio/static/js/main.904541cd.chunk.js.map",
   "static/js/1.45b9bf53.chunk.js": "/React-portfolio/static/js/1.45b9bf53.chunk.js",
   "static/js/1.45b9bf53.chunk.js.map": "/React-portfolio/static/js/1.45b9bf53.chunk.js.map",
   "static/js/2.607c0a46.chunk.js": "/React-portfolio/static/js/2.607c0a46.chunk.js",
@@ -20,6 +20,6 @@
   "static/media/weather.png": "/React-portfolio/static/media/weather.2ebcc2db.png",
   "static/css/main.bf2d1735.chunk.css.map": "/React-portfolio/static/css/main.bf2d1735.chunk.css.map",
   "index.html": "/React-portfolio/index.html",
-  "precache-manifest.c2b19e3efb7173256d2721ea4627590d.js": "/React-portfolio/precache-manifest.c2b19e3efb7173256d2721ea4627590d.js",
+  "precache-manifest.a6e68b88ca13e89f5debc6b0b87f2a0f.js": "/React-portfolio/precache-manifest.a6e68b88ca13e89f5debc6b0b87f2a0f.js",
   "service-worker.js": "/React-portfolio/service-worker.js"
 }
